@@ -1,0 +1,28 @@
+name: deencentral
+favicon: null
+layout_spectrum: 0.3551990184932947
+typography_spectrum: 0.41503403475508094
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9769128388725221
+  lightness: 0.5886006637010723
+  saturation: 0.5920651098713279
+  rhythmicContrast: 0.9365669246762991
+purpose: []
